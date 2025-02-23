@@ -1,5 +1,5 @@
-# MOGS
-Multi-user Online Game Server with DNPCS2
+# MOGS (DNPCS 3D Game Server) <br>
+Multi-user Online Game Server with DNPCS 3D
 <p>
 현재 C#언어로 개발 진행중인 프로젝트 입니다.<br><br>
 회로 설계, PCB Artwork, SMT Line 운용 경력.<br>
@@ -20,9 +20,14 @@ C, C++, C#, Java 언어 개발 가능한 프로그래머 입니다.<br>
 [개발 환경]<br>
 - 개발언어 : C#<br>
 - 개발Tool : Visual Studio Code<br>
-- 닷넷 버젼 : 닷넷 8.0<br>
+- 버젼 : .NET 9.0<br>
 </p>
 
-[MOGS.pdf](https://github.com/user-attachments/files/17500719/MOGS.pdf)
-![MOGS](https://github.com/user-attachments/assets/77e756bf-8ce8-4419-bcf5-d770eede2938)
+[DNPCS3 설계도.pdf](https://github.com/user-attachments/files/18934137/DNPCS3.pdf)
+![DNPCS3 설계도](https://github.com/user-attachments/assets/3afcff6d-f0e5-4062-b697-3178e500d2e9)
+
+<br>
+
+[DNPCS 3D Game Server.pdf](https://github.com/user-attachments/files/18934075/DNPCS.3D.Game.Server.pdf)
+![DNPCS 3D Game Server](https://github.com/user-attachments/assets/7be23fbd-5cc0-4c4c-a738-e5282b40ab28)
 
