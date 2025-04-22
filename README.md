@@ -6,10 +6,16 @@ Multi-user Online Game Server with DNPCS 3D
 C, C++, C#, Java 언어 개발 가능한 프로그래머 입니다.<br> 
 <b>현재 S/W 개발직 구직중에 있습니다(연락:skylandbruce@naver.com) </b><br>
   
+
+https://github.com/user-attachments/assets/7486d61e-bef6-4544-b2c5-7868c288c8f5
+
+
 [개요]<br>
 -다수의 유저가 접속하여 본인의 캐릭터를 조정할 수 있게 한다.<br>
 -대규모의 NPC가 다양한 Position Template를 상속받아,<br>
 기본 흐름을 유지하며, 각각의 자율성 있는 움직임을 보인다.<br>
+<참고 1> Framework 소스는 비공개 임으로, 개발 히스토리를 업데이트 하지는 않습니다.<br>
+<참고 2> MMOG Sever Framework 와 Client 코드는 비공개 코드 정리 작업을 거친 후에, 업로드 될 예정입니다<br>
 
 [주요 개발 목표]<br>
 -DNPCS2를 c#으로 구현<br>
